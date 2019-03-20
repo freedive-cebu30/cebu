@@ -50,3 +50,4 @@ ethers:         db files
 rpc:            db files
 
 netgroup:       nis
+[mysql]
